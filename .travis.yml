@@ -25,6 +25,8 @@ addons:
       # - libslang2-dev
       # libcaca includes slang for us
       - libcaca-dev
+      - lua5.2
+      - liblua5.2-dev
 
 git:
   depth: 3
